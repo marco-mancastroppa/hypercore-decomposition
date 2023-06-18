@@ -10,7 +10,7 @@ The data that support the findings of this study are publicly available:
 * **Online interactions** data sets. Data source [here](https://www.cs.cornell.edu/~arb/data/)
 * **Ecological** data sets by the Web of life ecological. Data source [here](https://www.web-of-life.es).
 
-Both the original and processed data are collected stored in the Data folder, with the preprocessing code to obtain the empirical static hypergraphs used in the study.
+Both the original and processed data are collected in the `Data` folder, with the preprocessing code to obtain the empirical static hypergraphs used in the study.
 # Code
 
 The code used to simulate the Naming-Game (NG) process on hypergraphs with committed minority is available at [https://github.com/iaciac/higher-order-NG](https://github.com/iaciac/higher-order-NG)
