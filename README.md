@@ -4,5 +4,6 @@ This repository contains the code associated to the paper "Hyper-cores promote l
 # Code
 
 The code used to simulate the Naming-Game (NG) process on hypergraphs with committed minority is available at [https://github.com/iaciac/higher-order-NG](https://github.com/iaciac/higher-order-NG)
+
 The code use the CompleX Group Interactions (XGI) library in Python [https://github.com/xgi-org/xgi](https://github.com/xgi-org/xgi)
 See: Landry, N. W., Lucas, M., Iacopini, I., Petri, G., Schwarze, A., Patania, A., & Torres, L. (2023). XGI: A Python package for higher-order interaction networks. Journal of Open Source Software, 8(85), 5162. [https://doi.org/10.21105/joss.05162](https://doi.org/10.21105/joss.05162)
