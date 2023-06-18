@@ -8,7 +8,8 @@ The data that support the findings of this study are publicly available:
 * **Email-Enron** data set. Data source [here](https://www.cs.cornell.edu/~arb/data/)
 * **Political interactions** data sets. Data source [here](https://www.cs.cornell.edu/~arb/data/)
 * **Online interactions** data sets. Data source [here](https://www.cs.cornell.edu/~arb/data/)
-* **Ecological** data sets by the Web of life ecological. Data source [here](https://www.web-of-life.es).  
+* **Ecological** data sets by the Web of life ecological. Data source [here](https://www.web-of-life.es).
+
 Both the original and processed data are collected stored in the Data folder, with the preprocessing code to obtain the corresponding static hypergraphs.
 # Code
 
