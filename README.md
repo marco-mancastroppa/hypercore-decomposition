@@ -1,5 +1,5 @@
-# Data and code for the paper "Hyper-cores promote localization and efficient seeding in higher-order processes"
-This repository contains the code associated to the paper "Hyper-cores promote localization and efficient seeding in higher-order processes" by Marco Mancastroppa, Iacopo Iacopini, Giovanni Petri and Alain Barrat, [arXiv:2301.04235](https://arxiv.org/abs/2301.04235) (2023)
+# Data and Code for the paper "Hyper-cores promote localization and efficient seeding in higher-order processes"
+This repository contains the data and code associated to the paper "Hyper-cores promote localization and efficient seeding in higher-order processes" by Marco Mancastroppa, Iacopo Iacopini, Giovanni Petri and Alain Barrat, [arXiv:2301.04235](https://arxiv.org/abs/2301.04235) (2023)
 # Data
 The data that support the findings of this study are publicly available:
 * **SocioPattern** data sets (InVS15, LH10, SFHH, LyonSchool, Thiers13) by the [SocioPatterns project](http://www.sociopatterns.org/). Data source [here](http://www.sociopatterns.org/datasets/);
