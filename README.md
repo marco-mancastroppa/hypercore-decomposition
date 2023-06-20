@@ -10,7 +10,7 @@ The data that support the findings of this study are publicly available:
 * **Online interactions** data sets (music-review, algebra-questions, geometry-questions), presented in [J. Ni et al., Proceedings of the 2019 EMNLP-IJCNLP, pp. 188–197 (2019)](https://aclanthology.org/D19-1018/) and [I. Amburg et al., Proceedings of the 2022 SIAM International Conference on Data Mining (SDM), pp. 145–153 (2022)](https://epubs.siam.org/doi/10.1137/1.9781611977172.17). Data source [here](https://www.cs.cornell.edu/~arb/data/)
 * **Ecological** data sets (M_PL_015_ins, M_PL_015_pl, M_PL_062_ins, M_PL_062_pl) by the [Web of life: ecological network database](https://www.web-of-life.es ). Data source [here](https://www.web-of-life.es).
 
-Both the original and processed data are collected in the `Data` folder, with the preprocessing code to obtain the empirical static hypergraphs used in the study.
+The original and processed data are collected in the `Data` folder, with the preprocessing code to obtain the empirical static hypergraphs used in the study.
 # Code
 
 The `Hyper-core_decomposition` folder contains the code to obtain the (k,m)-hyper-core decomposition of a static hypergraph, and also the k-core and s-core decomposition of the associated projected graph. 
