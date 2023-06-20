@@ -13,7 +13,7 @@ The data that support the findings of this study are publicly available:
 The original and processed data are collected in the `Data` folder, with the preprocessing code to obtain the empirical static hypergraphs.
 # Code
 
-The `Hyper-core_decomposition` folder contains the code to obtain the (k,m)-hyper-core decomposition of a static hypergraph, and also the k-core and s-core decomposition of the associated projected graph. 
+The `Hyper-core_decomposition` folder contains the code to obtain the (k,m)-hyper-core decomposition of a static hypergraph, and also the code for the k-core and s-core decompositions of the associated projected graph. 
 
 The `Hypergraph_randomization` folder contains the code to obtain a randomized realization of the original static hypergraph, through hyperedge reshuffling. The code is an adaptation of the reshuffling procedure proposed in [N. W. Landry et al., Chaos: An Interdisciplinary Journal of Nonlinear Science 32, 053113 (2022)](https://doi.org/10.1063/5.0086905) (the original procedure can be found at [https://github.com/nwlandry/hypergraph-assortativity](https://github.com/nwlandry/hypergraph-assortativity)).  
 
