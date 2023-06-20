@@ -12,10 +12,15 @@ The data that support the findings of this study are publicly available:
 
 Both the original and processed data are collected in the `Data` folder, with the preprocessing code to obtain the empirical static hypergraphs used in the study.
 # Code
-The `Hyper-core_decomposition` folder contains the code to obtain the (k,m)-hyper-core decomposition of a static hypergraph, and also the k-core and s-core decomposition of the associated projected graph.  
-The `Hypergraph_randomization` folder contains the code to obtain a randomized realization of the original static hypergraph, through hyperedge reshuffling. The code is an adaptation of the reshuffling procedure proposed in [N. W. Landry et al., Chaos: An Interdisciplinary Journal of Nonlinear Science 32, 053113 (2022)](https://doi.org/10.1063/5.0086905) (code source can be found at [https://github.com/nwlandry/hypergraph-assortativity](https://github.com/nwlandry/hypergraph-assortativity)).
-The `Nonlinear_higher-order_contagion` folder contains the code to simulate the SIS and SIR higher-order nonlinear contagion processes on static hypergraphs.   
+
+The `Hyper-core_decomposition` folder contains the code to obtain the (k,m)-hyper-core decomposition of a static hypergraph, and also the k-core and s-core decomposition of the associated projected graph. 
+
+The `Hypergraph_randomization` folder contains the code to obtain a randomized realization of the original static hypergraph, through hyperedge reshuffling. The code is an adaptation of the reshuffling procedure proposed in [N. W. Landry et al., Chaos: An Interdisciplinary Journal of Nonlinear Science 32, 053113 (2022)](https://doi.org/10.1063/5.0086905) (code source can be found at [https://github.com/nwlandry/hypergraph-assortativity](https://github.com/nwlandry/hypergraph-assortativity)).  
+
+The `Nonlinear_higher-order_contagion` folder contains the code to simulate the SIS and SIR higher-order nonlinear contagion processes on static hypergraphs.  
+
 The `Threshold_higher-order_contagion` folder contains the code to simulate the SIS and SIR higher-order threshold contagion processes on static hypergraphs.  
+
 The code to simulate the naming-game process on hypergraphs with committed minority is available at [https://github.com/iaciac/higher-order-NG](https://github.com/iaciac/higher-order-NG)
 
 The code uses the CompleX Group Interactions (XGI) library in Python [https://xgi.readthedocs.io](https://xgi.readthedocs.io/)  
