@@ -15,7 +15,7 @@ The original and processed data are collected in the `Data` folder, with the pre
 
 The `Hyper-core_decomposition` folder contains the code to obtain the (k,m)-hyper-core decomposition of static hypergraphs, and also the code for the k-core and s-core decompositions of the associated projected graphs. 
 
-The `Hypergraph_randomization` folder contains the code to obtain a randomized realization of empirical static hypergraphs, through a hyperedge reshuffling procedure. The code is an adaptation of the reshuffling procedure proposed in [N. W. Landry et al., Chaos: An Interdisciplinary Journal of Nonlinear Science **32**, 053113 (2022)](https://doi.org/10.1063/5.0086905) (the original procedure can be found at [https://github.com/nwlandry/hypergraph-assortativity](https://github.com/nwlandry/hypergraph-assortativity)).  
+The `Hypergraph_randomization` folder contains the code to obtain a randomized realization of static hypergraphs, through a hyperedge reshuffling procedure. The code is an adaptation of the reshuffling procedure proposed in [N. W. Landry et al., Chaos: An Interdisciplinary Journal of Nonlinear Science **32**, 053113 (2022)](https://doi.org/10.1063/5.0086905) (the original procedure can be found at [https://github.com/nwlandry/hypergraph-assortativity](https://github.com/nwlandry/hypergraph-assortativity)).  
 
 The `Nonlinear_higher-order_contagion` folder contains the code to simulate the SIS and SIR higher-order nonlinear contagion processes on static hypergraphs.  
 
