@@ -27,5 +27,5 @@ The `Threshold_higher-order_contagion` folder contains the code to simulate the 
 The code to simulate the naming-game process on hypergraphs with committed minority is available at [https://github.com/iaciac/higher-order-NG](https://github.com/iaciac/higher-order-NG)
 
 The code uses the Comple**X** **G**roup **I**nteractions (**XGI**) library in Python [https://xgi.readthedocs.io](https://xgi.readthedocs.io/).  
-XGI repository: [https://github.com/xgi-org/xgi](https://github.com/xgi-org/xgi).   
+**XGI** repository: [https://github.com/xgi-org/xgi](https://github.com/xgi-org/xgi).   
 Landry, N. W., Lucas, M., Iacopini, I., Petri, G., Schwarze, A., Patania, A., & Torres, L. (2023). XGI: A Python package for higher-order interaction networks. Journal of Open Source Software, **8**(85), 5162. [https://doi.org/10.21105/joss.05162](https://doi.org/10.21105/joss.05162)
